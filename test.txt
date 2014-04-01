@@ -3,3 +3,4 @@ test2
 b2
 aaaa
 aaa
+newline
