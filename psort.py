@@ -148,7 +148,7 @@ def perfect_number(number):
 perfect_number(10000)    
 
  
-sys.exit('bye!');
+#sys.exit('bye!');
 
 ########################二叉树#####################################################
 tree = {
