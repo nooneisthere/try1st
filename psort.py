@@ -1,6 +1,10 @@
 from pprint import pprint
 import sys, datetime
 
+
+print 0;
+sys.exit(0);
+#sys.exit('bye!');
 #汉诺塔 递归减化成移动二个积木的过程，N和N-1个
 def hanoi(n, mfrom, mhelp, mto):
     if n > 1:
