@@ -2,7 +2,6 @@
 from pprint import pprint
 import sys, datetime
 
-sys.setdefaultencoding('utf-8')
 
 print 0;
 sys.exit(0);
